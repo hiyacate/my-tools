@@ -1,0 +1,9 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: ffmpeg
+
+ffmpeg:
+  file: ./ffmpeg/src/main/resources/ffmpeg
