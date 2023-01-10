@@ -11,6 +11,7 @@
     <modules>
         <module>ffmpeg</module>
         <module>VideoUtils</module>
+        <module>hiyaOcr</module>
     </modules>
 
     <parent>
@@ -56,6 +57,7 @@
             <artifactId>lombok</artifactId>
             <version>1.18.24</version>
         </dependency>
+
     </dependencies>
 
     <build>
